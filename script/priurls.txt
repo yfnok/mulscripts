@@ -8,4 +8,7 @@ payload:
   - '+.sast.casc'
   - '+.glway.com'
   - '+.navicat.com'
+  - '+.tinder.com'
+  - '+.gotinder.com'
+  - '+.tindersparks.com'
   - 'reach50x'
