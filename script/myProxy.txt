@@ -16,3 +16,4 @@ payload:
   - '+.bitsexy.org'
   - '+.pornolab.net'
   - '+.skyeysnow.com'
+  - '+.chiphell.com'
