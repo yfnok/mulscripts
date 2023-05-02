@@ -1,10 +1,3 @@
 payload:
   - '+.nodeseek.com'
   - '+.hostloc.com'
-  - '+.chat.openai.com'
-  - '+.challenges.cloudflare.com'
-  - '+.auth0.openai.com'
-  - '+.platform.openai.com'
-  - '+.ai.com'
-  - '+.invoice.stripe.com'
-  - '+.stripe.com'
