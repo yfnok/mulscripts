@@ -17,3 +17,4 @@ payload:
   - '+.pornolab.net'
   - '+.skyeysnow.com'
   - '+.chiphell.com'
+  - '+.sehuatang.net'
