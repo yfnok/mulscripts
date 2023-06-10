@@ -18,3 +18,4 @@ payload:
   - '+.skyeysnow.com'
   - '+.chiphell.com'
   - '+.sehuatang.net'
+  - '+.fappaizuri.me'
