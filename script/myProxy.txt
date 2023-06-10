@@ -19,3 +19,4 @@ payload:
   - '+.chiphell.com'
   - '+.sehuatang.net'
   - '+.fappaizuri.me'
+  - '+.supjav.com'
