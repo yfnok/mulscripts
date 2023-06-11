@@ -20,3 +20,4 @@ payload:
   - '+.sehuatang.net'
   - '+.fappaizuri.me'
   - '+.supjav.com'
+  - '+.141jav.com'
