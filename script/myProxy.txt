@@ -23,3 +23,7 @@ payload:
   - '+.supjav.com'
   - '+.141jav.com'
   - '+.rikua.com'
+  - '+.hdarea.co'
+  - '+.dicmusic.club'
+  - '+.hddolby.com'
+  - '+.gainbound.net'
