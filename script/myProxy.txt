@@ -27,3 +27,4 @@ payload:
   - '+.dicmusic.club'
   - '+.hddolby.com'
   - '+.gainbound.net'
+  - '+.emeditor.com'
