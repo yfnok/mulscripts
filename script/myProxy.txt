@@ -28,3 +28,4 @@ payload:
   - '+.hddolby.com'
   - '+.gainbound.net'
   - '+.emeditor.com'
+  - '+.gamerapt.link'
