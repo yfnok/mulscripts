@@ -29,3 +29,4 @@ payload:
   - '+.gainbound.net'
   - '+.emeditor.com'
   - '+.gamerapt.link'
+  - '+.jav-magnet.com'
