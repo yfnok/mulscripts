@@ -30,4 +30,4 @@ payload:
   - '+.emeditor.com'
   - '+.gamerapt.link'
   - '+.jav-magnet.com'
-  - 'bard.google.com'
+  - '+.bitporn.eu'
