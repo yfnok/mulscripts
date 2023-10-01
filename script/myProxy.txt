@@ -31,3 +31,4 @@ payload:
   - '+.gamerapt.link'
   - '+.jav-magnet.com'
   - '+.bitporn.eu'
+  - '+.ptchdbits.co'
