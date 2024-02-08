@@ -32,3 +32,4 @@ payload:
   - '+.jav-magnet.com'
   - '+.bitporn.eu'
   - '+.ptchdbits.co'
+  - '+.hostloc.com'
