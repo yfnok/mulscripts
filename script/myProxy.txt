@@ -34,3 +34,4 @@ payload:
   - '+.ptchdbits.co'
   - '+.laowang.vip'
   - '+.hostloc.com'
+  - '+.yahoo.com'
