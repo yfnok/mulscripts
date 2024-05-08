@@ -8,3 +8,7 @@ payload:
   - '+.ai.com'
   - '+.invoice.stripe.com'
   - '+.stripe.com'
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.arkoselabs.com'
+  - '+.openaiapi-site.azureedge.net'
