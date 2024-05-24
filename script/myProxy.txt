@@ -35,3 +35,5 @@ payload:
   - '+.laowang.vip'
   - '+.hostloc.com'
   - '+.yahoo.com'
+  - '+.7000.me'
+  - '+.9191md.me'
