@@ -6,3 +6,5 @@ payload:
   - '+.gotinder.com'
   - '+.tindersparks.com'
   - 'reach50x'
+  - '+.jianghang.com'
+  - '+.vmware.com'
