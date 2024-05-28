@@ -37,3 +37,4 @@ payload:
   - '+.yahoo.com'
   - '+.7000.me'
   - '+.9191md.me'
+  - '+.hsck.cc'
