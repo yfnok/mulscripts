@@ -1,0 +1,3 @@
+payload:
+  - '+.m-team.cc'
+  - '+.hddolby.com'
