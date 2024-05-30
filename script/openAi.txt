@@ -12,3 +12,5 @@ payload:
   - '+.oaistatic.com'
   - '+.arkoselabs.com'
   - '+.openaiapi-site.azureedge.net'
+  - '+.m-team.cc'
+  - '+.hddolby.com'
