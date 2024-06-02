@@ -1,3 +1,4 @@
 payload:
   - '+.m-team.cc'
   - '+.hddolby.com'
+  - '+.piggo.me'
