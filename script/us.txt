@@ -1,5 +1,3 @@
 payload:
   - '+.claude.ai'
   - 'gemini.google.com'
-  - '+.tubi.tv'
-
