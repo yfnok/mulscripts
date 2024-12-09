@@ -9,3 +9,4 @@ payload:
   - '+.jianghang.com'
   - '+.vmware.com'
   - '+.ptc.com'
+  - '+.kylinos.cn'
