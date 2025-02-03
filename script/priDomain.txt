@@ -9,4 +9,5 @@ payload:
   - '+.jianghang.com'
   - '+.vmware.com'
   - '+.ptc.com'
+  - '+.deepseek.com'
   - '+.kylinos.cn'
