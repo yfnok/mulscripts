@@ -38,3 +38,4 @@ payload:
   - '+.7000.me'
   - '+.9191md.me'
   - '+.hsck.cc'
+  - '+.linux.do'
