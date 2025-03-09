@@ -11,3 +11,4 @@ payload:
   - '+.ptc.com'
   - '+.deepseek.com'
   - '+.kylinos.cn'
+  - '+.huazhu.com'
