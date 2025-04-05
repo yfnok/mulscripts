@@ -11,3 +11,4 @@ payload:
   - '+.deepseek.com'
   - '+.kylinos.cn'
   - '+.huazhu.com'
+  - '+.sht808.com'
